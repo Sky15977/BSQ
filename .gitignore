@@ -2,6 +2,7 @@ codi*
 vgcore*
 a.out
 libmy.a
+bsq
 *.o
 *~
 *#
